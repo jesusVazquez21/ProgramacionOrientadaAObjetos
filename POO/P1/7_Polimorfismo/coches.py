@@ -1,5 +1,5 @@
 import os
-os.system("clear")
+os.system("cls")
 
 class Coches:
    def __init__(self,marca,color,modelo,velocidad,caballaje,plazas):
